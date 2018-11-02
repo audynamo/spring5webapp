@@ -41,4 +41,8 @@ public class Publisher {
         this.name = name;
         this.address = address;
     }
+
+    public Publisher() {
+
+    }
 }
